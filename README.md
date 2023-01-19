@@ -3,7 +3,7 @@ A weather widget was made, using the Weather API for its development, at the sam
 
 ### Screenshot
 
-![](design/previewDesign.png)
+![](./design/previewDesign.png)
 
 ### Links
 
